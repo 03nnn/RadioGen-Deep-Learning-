@@ -12,3 +12,8 @@ Key Achievements:
 Achieved 88% accuracy, 89% precision, and 88% recall on chest X-ray classification tasks, identifying conditions like Normal, Pneumonia, COVID-19, and Tuberculosis.
 Automated medical report generation, reducing radiologists' workload while maintaining high clinical relevance.
 Ensured consistency and reduced variability in reporting through standardized language and structure.
+
+
+
+# DATASET:-
+https://www.kaggle.com/datasets/jtiptj/chest-xray-pneumoniacovid19tuberculosis
